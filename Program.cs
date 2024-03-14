@@ -1,8 +1,8 @@
 ﻿/* Program.cs
- * Demo of getting input...
+ * Console application that calculates the pay for a worker based on the hours worked and the rate of pay.
  * 
  * Revision History:
- *  Matheus Carvalho dos Santos 2024.01.23:
+ *  Matheus Carvalho dos Santos 2024.01.23: Created
  */
 using System;
 using System.Collections.Generic;
